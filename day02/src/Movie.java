@@ -1,35 +1,61 @@
-public class Movie {
-    private final String title;
-    private final int year;
-    private final String genre;
-    private final String director;
+import java.util.List;
 
-    public Movie(String title, int year, String genre, String director) {
+public class Movie {
+    private int id;
+    private String title;
+    private String year;
+    private String runtime;
+    private List<String> genres;
+    private String director;
+    private String actors;
+    private String plot;
+    private String posterUrl;
+
+    public Movie(int id, String title, String year, String runtime, List<String> genres, String director, String actors, String plot, String posterUrl) {
+        this.id = id;        
         this.title = title;
         this.year = year;
-        this.genre = genre;
+        this.runtime = runtime;
+        this.genres = genres;
         this.director = director;
+        this.actors = actors;
+        this.plot = plot;
+        this.posterUrl = posterUrl;
     }
 
-    public String getTitle() {
-        return title;
-    }
+    public Movie() {}
 
-    public int getYear() {
-        return year;
-    }
+    // Getters e setters
+    public int getId() { return id; }
+    public void setId(int id) { this.id = id; }
 
-    public String getGenre() {
-        return genre;
-    }
+    public String getTitle() { return title; }
+    public void setTitle(String title) { this.title = title; }
 
-    public String getDirector() {
-        return director;
-    }
+    public String getYear() { return year; }
+    public void setYear(String year) { this.year = year; }
+
+    public String getRuntime() { return runtime; }
+    public void setRuntime(String runtime) { this.runtime = runtime; }
+
+    public List<String> getGenres() { return genres; }
+    public void setGenres(List<String> genres) { this.genres = genres; }
+
+    public String getDirector() { return director; }
+    public void setDirector(String director) { this.director = director; }
+
+    public String getActors() { return actors; }
+    public void setActors(String actors) { this.actors = actors; }
+
+    public String getPlot() { return plot; }
+    public void setPlot(String plot) { this.plot = plot; }
+
+    public String getPosterUrl() { return posterUrl; }
+    public void setPosterUrl(String posterUrl) { this.posterUrl = posterUrl; }
 
     @Override
     public String toString() {
-        return title + " (" + year + ") - " + genre + " | Dir: " + director;
+        return title + " (" + year + ") - " + genres + " | Dir: " + director;
     }    
     
 }
