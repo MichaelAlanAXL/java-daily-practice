@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "com.example.day09.Main",
+            "projectName": "day09"
+        },
+        {
+            "type": "java",
+            "name": "Executar no terminal",
+            "request": "launch",
+            "mainClass": "Main",
+            "console": "integratedTerminal"
+        }
+    ]
+}
