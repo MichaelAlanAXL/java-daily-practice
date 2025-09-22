@@ -8,20 +8,20 @@ A ideia é treinar **constância** e montar um portfólio público no GitHub.
 ## 📅 Plano de Estudos
 
 ### Semana 1 – Fundamentos de Lambdas
-- **Dia 1**: Ranking de jogadores (ordenar lista com `Comparator` e `Stream.sorted`)  
-- **Dia 2**: Catálogo de filmes (filtrar por gênero com `Predicate`)  
-- **Dia 3**: Gerador de senhas (`Supplier<String>`)  
-- **Dia 4**: Controle de estoque (filtrar produtos com quantidade baixa)  
-- **Dia 5**: Calculadora de média (`Function<List<Integer>, Double>`)  
-- **Dia 6**: Chat fake (`Consumer<String>` que imprime mensagens)  
-- **Dia 7**: Agenda de aniversários (mapear `Pessoa -> LocalDate`)  
+- **Dia 1**: Ranking de jogadores (ordenar lista com `Comparator` e `Stream.sorted`) ✔️
+- **Dia 2**: Catálogo de filmes (filtrar por gênero com `Predicate`) ✔️
+- **Dia 3**: Gerador de senhas (`Supplier<String>`)  ✔️
+- **Dia 4**: Controle de estoque (filtrar produtos com quantidade baixa)  ✔️
+- **Dia 5**: Calculadora de média (`Function<List<Integer>, Double>`)  ✔️
+- **Dia 6**: Chat fake (`Consumer<String>` que imprime mensagens)  ✔️
+- **Dia 7**: Agenda de aniversários (mapear `Pessoa -> LocalDate`)  ✔️
 
 ### Semana 2 – Streams na prática
-- **Dia 8**: Banco de pontos de fidelidade (`BinaryOperator<Integer>`)  
-- **Dia 9**: Gerador de frases motivacionais (`Supplier<String>`)  
-- **Dia 10**: Simulador de caixa eletrônico (`reduce`)  
-- **Dia 11**: Contagem de palavras em um texto (`Collectors.groupingBy`)  
-- **Dia 12**: Lista de alunos aprovados (filtrar e ordenar)  
+- **Dia 8**: Banco de pontos de fidelidade (`BinaryOperator<Integer>`)  ✔️
+- **Dia 9**: Gerador de frases motivacionais (`Supplier<String>`)  ✔️
+- **Dia 10**: Simulador de caixa eletrônico (`reduce`)  ✔️
+- **Dia 11**: Contagem de palavras em um texto (`Collectors.groupingBy`)  ✔️
+- **Dia 12**: Lista de alunos aprovados (filtrar e ordenar)  ✔️
 - **Dia 13**: Conversor de temperaturas (`Function<Double, Double>`)  
 - **Dia 14**: Números primos até 100 (geração com stream)  
 
