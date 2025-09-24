@@ -23,7 +23,7 @@ A ideia é treinar **constância** e montar um portfólio público no GitHub.
 - **Dia 11**: Contagem de palavras em um texto (`Collectors.groupingBy`)  ✔️
 - **Dia 12**: Lista de alunos aprovados (filtrar e ordenar)  ✔️
 - **Dia 13**: Conversor de temperaturas (`Function<Double, Double>`)  ✔️
-- **Dia 14**: Números primos até 100 (geração com stream)  
+- **Dia 14**: Números primos até 100 (geração com stream)  ✔️
 
 ### Semana 3 – Problemas do mundo real
 - **Dia 15**: Catálogo de produtos com desconto (`map` e `collect`)  
