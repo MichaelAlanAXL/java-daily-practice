@@ -26,7 +26,7 @@ A ideia é treinar **constância** e montar um portfólio público no GitHub.
 - **Dia 14**: Números primos até 100 (geração com stream)  ✔️
 
 ### Semana 3 – Problemas do mundo real
-- **Dia 15**: Catálogo de produtos com desconto (`map` e `collect`)  
+- **Dia 15**: Catálogo de produtos com desconto (`map` e `collect`)  ✔️
 - **Dia 16**: Simulação de carrinho de compras (somar preços)  
 - **Dia 17**: Histórico de login (última data de acesso usando `max`)  
 - **Dia 18**: Sistema de tags (listar palavras únicas)  
