@@ -27,7 +27,7 @@ A ideia é treinar **constância** e montar um portfólio público no GitHub.
 
 ### Semana 3 – Problemas do mundo real
 - **Dia 15**: Catálogo de produtos com desconto (`map` e `collect`)  ✔️
-- **Dia 16**: Simulação de carrinho de compras (somar preços)  
+- **Dia 16**: Simulação de carrinho de compras (somar preços)  ✔️
 - **Dia 17**: Histórico de login (última data de acesso usando `max`)  
 - **Dia 18**: Sistema de tags (listar palavras únicas)  
 - **Dia 19**: Playlist de músicas (embaralhar e tocar com `Supplier`)  
