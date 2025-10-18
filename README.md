@@ -32,7 +32,7 @@ A ideia é treinar **constância** e montar um portfólio público no GitHub.
 - **Dia 18**: Sistema de tags (listar palavras únicas)  ✔️
 - **Dia 19**: Playlist de músicas (embaralhar e tocar com `Supplier`)  ✔️
 - **Dia 20**: Ranking de notas em concurso (ordenar e pegar top 3)  ✔️
-- **Dia 21**: Verificar duplicados em lista (`distinct`)  
+- **Dia 21**: Verificar duplicados em lista (`distinct`)  ✔️
 
 ### Semana 4 – Consolidando
 - **Dia 22**: Agenda de compromissos (ordenar por data)  
