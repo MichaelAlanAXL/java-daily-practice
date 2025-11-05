@@ -35,8 +35,8 @@ A ideia é treinar **constância** e montar um portfólio público no GitHub.
 - **Dia 21**: Verificar duplicados em lista (`distinct`)  ✔️
 
 ### Semana 4 – Consolidando
-- **Dia 22**: Agenda de compromissos (ordenar por data)  
-- **Dia 23**: Ranking de cidades mais populosas (usando Map e Stream)  
+- **Dia 22**: Agenda de compromissos (ordenar por data) ✔️ 
+- **Dia 23**: Ranking de cidades mais populosas (usando Map e Stream) ✔️
 - **Dia 24**: Lista de compras (separar itens por categoria)  
 - **Dia 25**: Estatísticas de números (`summaryStatistics`)  
 - **Dia 26**: Gerador de cupons de desconto (`UUID` + `Supplier`)  
