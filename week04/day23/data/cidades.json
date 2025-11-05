@@ -1,0 +1,9 @@
+[
+    { "nome": "Tokyo", "país": "Japan", "população": 37435191 },
+    { "nome": "Delhi", "país": "India", "população": 29399131 },
+    { "nome": "Shanghai", "país": "China", "população": 26317104 },
+    { "nome": "São Paulo", "país": "Brazil", "população": 21846507 },
+    { "nome": "Mexico City", "país": "Mexico", "população": 21671908 },
+    { "nome": "Cairo", "país": "Egypt", "população": 20484965 },
+    { "nome": "Mumbai", "país": "India", "população": 20185064 }
+]
