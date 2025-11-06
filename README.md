@@ -37,7 +37,7 @@ A ideia é treinar **constância** e montar um portfólio público no GitHub.
 ### Semana 4 – Consolidando
 - **Dia 22**: Agenda de compromissos (ordenar por data) ✔️ 
 - **Dia 23**: Ranking de cidades mais populosas (usando Map e Stream) ✔️
-- **Dia 24**: Lista de compras (separar itens por categoria)  
+- **Dia 24**: Lista de compras (separar itens por categoria)  ✔️
 - **Dia 25**: Estatísticas de números (`summaryStatistics`)  
 - **Dia 26**: Gerador de cupons de desconto (`UUID` + `Supplier`)  
 - **Dia 27**: Chat com histórico limitado (`Queue`)  
