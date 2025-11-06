@@ -1,0 +1,12 @@
+[
+  {
+    "nome": "Arroz",
+    "categoria": "Alimentos",
+    "quantidade": 2
+  },
+  {
+    "nome": "Sabonete",
+    "categoria": "Higiene",
+    "quantidade": 5
+  }
+]
