@@ -1,0 +1,31 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "javac: compile",
+            "type": "shell",
+            "command": "javac",
+            "args": [
+                "--release",
+                "17",
+                "-d",
+                "bin",
+                "-cp",
+                "lib\\gson-2.10.1.jar",
+                "model\\Cupom.java",
+                "service\\CupomService.java",
+                "Main.java"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "panel": "shared"
+            }
+        }
+    ]
+}
