@@ -40,7 +40,7 @@ A ideia é treinar **constância** e montar um portfólio público no GitHub.
 - **Dia 24**: Lista de compras (separar itens por categoria)  ✔️
 - **Dia 25**: Estatísticas de números (`summaryStatistics`)  ✔️
 - **Dia 26**: Gerador de cupons de desconto (`UUID` + `Supplier`) ✔️
-- **Dia 27**: Chat com histórico limitado (`Queue`)  
+- **Dia 27**: Chat com histórico limitado (`Queue`)  ✔️
 - **Dia 28**: Controle de presença em sala (Set + Stream)  
 - **Dia 29**: Calculadora de IMC (mapear pessoas → IMC e filtrar)  
 - **Dia 30**: Mini-relatório final – juntar todos os conceitos  
